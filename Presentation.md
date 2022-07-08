@@ -3,7 +3,7 @@ title: Automating and scaling data ingestion
 ---
 
 
-# Automating and scaling data ingestion for boating
+# Automating and scaling data ingestion
 
 Newcastle Cloud & DevOps 2022 - Jack McKew
 
