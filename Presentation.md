@@ -1,5 +1,5 @@
 ---
-title: Automating and scaling data ingestion for boating
+title: Automating and scaling data ingestion
 ---
 
 
