@@ -15,7 +15,7 @@ Newcastle Cloud & DevOps 2022 - Jack McKew
 
 ## Quick Note
 
-This talk is open source: UPDATE_URL
+This talk is open source: <https://jackmckew.github.io/data-ingestion-automation>
 
 ---
 
